@@ -1,2 +1,4 @@
 node_modules
 __shots__
+__tests__
+./db/config.js
